@@ -1,0 +1,42 @@
+.movie__back {
+  display: flex;
+  width: 100px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: orangered;
+  margin-bottom: 20px;
+}
+
+.movie__back > a {
+  font-family: 'Kanit', sans-serif;
+  line-height: 1.5;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+
+.movie__box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.movie__info{
+
+    padding-left: 15px;
+}
+
+.movie__img{
+    height: auto;
+    max-width: 800px;
+}
+
+.additional__title{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.movie__list{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,13 @@
+.cast__item{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.cast__item img{
+    max-width: 500px;
+    height: auto;
+}
+
+.cast__box{
+    padding-left: 15px;
+}

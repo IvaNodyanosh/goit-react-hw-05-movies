@@ -1,0 +1,18 @@
+.movies__input {
+  padding: 5px 10px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.movies__link {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 5px;
+}
+
+.movies__list {
+  padding: 20px 0;
+}
